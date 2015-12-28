@@ -38,6 +38,7 @@ int main() {
   return 0;
 }
 /*
-   40k elements: 2560 ms, i3/3GHz
+   i3/3GHz
+   40k elements:  2560 ms
   100k elements: 15978 ms
 */
